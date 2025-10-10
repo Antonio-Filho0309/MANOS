@@ -3,14 +3,6 @@
 MacacoProduções ©
  
 
-
-
-
-
-
-
-
-
 # Visão  Geral 🖼️
 Nesta Seção será apresentado  o titulo do jogo, o estilo do jogo, publico alvo e a plataforma que eu quero lançar o jogo, esté topico  apresentará ao  usuário  o que será a proposta
 
@@ -25,28 +17,121 @@ Aqui nesta seção terá mais detalhes tecnicos do jogo como,  a historia, detal
 
 A ideia de game, a ambientação, foram inspiradas nos clássicos BEAT em up's que eu joguei , tmnt , final fight, Double dragon , metamorphic forces, porém com um ar mais colorido e engraçado e se passando pelos  bairros de fortaleza onde eu cresci.
 
+
+## Préfacio:
+Antes do caos tomar conta da cidade, havia um rapaz: o Sr. Pepas.
+Empresário visionário e inventor, ele dedicava sua fortuna à tecnologia. Para muitos, era apenas um gênio excêntrico com dinheiro demais e tempo de sobra. Para poucos, um estrategista silencioso — alguém que via o mundo como um grande tabuleiro e acreditava que o bem também precisava ser planejado.
+
+Foi em um evento da alta sociedade que ele conheceu Michelle — uma mulher carismática, inteligente e movida, ao que parecia, pelos mesmos ideais.
+
+Juntos, fundaram um projeto voltado à “evolução humana”, com o objetivo de restaurar a segurança e o equilíbrio nas cidades, tornando Fortaleza o modelo de um novo mundo.
+Pepas acreditava estar ajudando a construir um futuro melhor. Mas, sem perceber, estava dando vida a algo muito mais sombrio.
+Encantado por Michelle, ele logo se viu cego de amor. Descobriu que ela dominava tanto as artes da luta quanto da inteligência — e isso só o fascinava mais.
+
+Como prova de afeto, Michelle lhe entregou um presente guardado em uma caixa de metal negro: Dr. Guswinn, um ser de força inumana, outrora um herói caído, capturado e mantido como cobaia.
+Mas com o tempo, Michelle revelou suas verdadeiras intenções — transformar o mundo em um “parque de diversões do caos”, onde apenas os mais fortes sobreviveriam.
+
+Quando Pepas tentou detê-la, era tarde demais.
+Ela já havia usado seus próprios recursos e tecnologias para criar um exército de mutantes, máquinas e mercenários.
+Big Boss, como passou a se chamar, via Pepas como o parceiro perfeito em seu reinado. Mas ao recusar compactuar com a loucura dela, foi traído — teve sua empresa destruída, seu nome manchado e sua vida por um fio.
+Mas Pepas sobreviveu.
+
+E no silêncio das ruínas, iniciou seu plano de urgência.
+Usando o que restou de seus laboratórios secretos, ele libertou Dr. Guswinn, prometendo ajudá-lo a se vingar da Big Boss, que o havia traído e transformado em experimento.
+
+Para completar o time, Pepas ativou um projeto experimental chamado Diego — um jovem dotado da Toon Force, o poder de materializar a própria imaginação, tornando-o imprevisível e incrivelmente poderoso.
+Por fim, ele procurou dois garotos que sempre o inspiraram — Toin e Jonnhy, dois manos de Fortaleza conhecidos por sua coragem, senso de humor e lealdade.
+
+Usando sua tecnologia, Pepas implantou chips de habilidades em ambos, concedendo-lhes poderes únicos.
+
+Pepas sabia que não bastavam armas ou dinheiro para enfrentar o caos — era preciso coragem, determinação e… a manice.
+
+Agora, com seus aliados reunidos, o Sr. Pepas observa das sombras enquanto Big Boss transforma Fortaleza em seu império de loucura.
+Ele sabe que esta não será uma guerra comum.
+
+Mas quando o caos toma conta da cidade…
+só os manos podem devolver a ordem —
+do jeito deles.
+
 ## História/Enredo: 
-Fortaleza nunca foi uma cidade tranquila, mas algo estranho começou a acontecer nos últimos meses. Bairros antes cheios de vida agora estão tomados por gangues, figuras bizarras e até criaturas sobrenaturais. Por trás disso, está uma misteriosa organização liderada pelo enigmático Big Boss, um monstro de três cabeças que busca transformar a cidade em seu próprio “parque de diversões do caos”.
-Os dois manos, Antonio e João, sempre viveram a correria das ruas, dividindo risadas, treinos e tretas ocasionais. Mas quando percebem que amigos, colegas de escola e até lugares que marcaram sua infância estão sendo dominados pelos capangas do Big Boss, decidem partir para a briga.
-De trombadinhas de moto a drones malucos, de alunos extremistas até pessoas-fantasma, cada esquina esconde um desafio mais insano que o outro. Entre pancadaria e piadas, os manos vão avançando pelos bairros icônicos de Fortaleza – da Escola Dona Creusa até a Lagoa do Urubu – desvendando o plano dos vilões e enfrentando chefes caricatos, como o empresário corrupto Richard Alburquerco, o arruaceiro bombado Bomb Jr., e o romântico fracassado HeartBrake.
-No fim, só a união dos manos e a boa e velha “brigaria” vão decidir o destino da cidade.
+Fortaleza nunca foi uma cidade tranquila — mas o que está acontecendo agora vai além de qualquer bagunça que seus moradores já viram.
+Nos últimos meses, bairros inteiros foram tomados por gangues mascaradas, figuras bizarras e até criaturas que desafiam a lógica. O caos se espalha como um vírus, e ninguém entende de onde vem tanta loucura.
+
+Por trás de tudo isso está Big Boss — outrora conhecida como Michelle — a mente brilhante que perdeu o juízo e agora comanda uma organização secreta que mistura tecnologia, manipulação genética e pura insanidade. Seu objetivo é transformar Fortaleza em seu próprio “parque de diversões do caos”.
+
+Enquanto isso, Sr. Pepas ativa o plano que preparou desde o dia em que foi traído. E, para colocá-lo em ação, confia sua esperança aos que menos esperavam por isso — Toin e Jonnhy, dois manos de Fortaleza que cresceram entre risadas, treinos, brigas de esquina e sonhos de um futuro melhor.
+
+Quando percebem que amigos, colegas de escola e até lugares da infância estão sendo dominados pelos capangas da Big Boss, os manos decidem reagir. O que começa como uma simples tentativa de ajudar o bairro logo se transforma em uma jornada épica.
+
+Munidos dos chips de habilidades criados por Pepas, Toin e Jonnhy ganham reflexos aprimorados, força e instintos de combate que beiram o sobrenatural. E não estão sozinhos: Diego, o garoto da Toon Force, se junta à equipe com sua energia caótica e criatividade ilimitada — capaz de invocar desde um martelo gigante até um taco de beisebol só com a imaginação.
+
+Ao lado deles, Dr. Guswinn, o colosso libertado, luta para redimir seus erros do passado e acertar as contas com a mulher que o traiu.
+Unidos pela liderança de Toin (encarregado pelo Sr. Pepas), o grupo parte para enfrentar o Big Boss, que controla os principais bairros da cidade.
+
+Cada zona de Fortaleza se torna uma arena de combate:
+
+•	Na Escola Dona Creusa, o empresário corrupto Richard Alburquerco 
+
+•	No Centro, o arruaceiro bombado Bomb Jr. lidera uma gangue de motoqueiros que domina as ruas.
+
+•	Na Lagoa do Urubu, o romântico fracassado HeartBrake comanda um exército de clones apaixonados, espalhando caos e ciúmes por onde passa.
+
+De esquina em esquina, os manos descobrem que a cidade está cheia de segredos — e que cada vilão é uma peça no grande jogo da Big Boss. Mas com cada vitória, o time ganha aliados, desbloqueia novas habilidades e se aproxima da fortaleza principal da vilã: a Torre do Caos, construída sobre os escombros da antiga empresa de Pepas.
+
+No clímax da jornada, Toin, Jonnhy, Diego e Guswinn enfrentam ondas de inimigos, máquinas e aberrações criadas pela Big Boss. Enquanto isso, Pepas, operando dos bastidores, tenta invadir o sistema central da Torre para desligar o controle da cidade.
+
+E quando o confronto final começa, o destino de Fortaleza depende de uma coisa só:
+
+a união dos manos, a força da amizade — e a boa e velha brigaria.
+
+Porque, no fim das contas…
+quando o caos domina as ruas,
+só os manos podem devolver a ordem —
+do jeito deles.
+
 
 ## Personagens Jogáveis
 
 <details>
-<summary><b>Antonio</b></summary>
+<summary><b>Toin</b></summary>
 
-- **Descrição:** um cara tranquilo e de boa, que apesar de não curtir tanto brigar, quando estressado, vira um lutador nato e pronto pra enfrentar qualquer parada, é medroso, mas quando se sente ameaçado ou algum dos seus, o mano vira bicho, literalmente.
--  **Habilidades:**  consegue emanar fogo dos seus golpes, capaz de soltar rajadas imensas.
+- **Descrição:** Um cara de boa… até perder a paciência, é pequeno então já viu. Toin tenta evitar briga, mas quando o sangue esquenta, o chão treme. Ele é intenso, direto e cheio de marra — aquele tipo que não leva desaforo pra casa. Apesar do temperamento forte, tem um bom coração e sempre luta por quem ele se importa.
+-  **Habilidades:**  Consegue canalizar o fogo através dos golpes. Quando está furioso, suas chamas se intensificam, criando rajadas flamejantes devastadoras.
 -  **Estilo de luta:** Capoeira.
 </details>
 
 <details>
-<summary><b>João</b></summary>
+<summary><b>Jonnhy</b></summary>
 
-- **Descrição:** Não é um cara brigão, mas se garante numa luta, é um cara e boa com a vida, mas não gosta de ser desafiado se não o pau come solto Sra e senhores
--  **Habilidades:**  Velocidade , capaz de desferir múltiplos golpes de apenas uma vez l.
+- **Descrição:** O mais de boa. Sempre com piada pronta, encara até as situações mais tensas de maneira descontraida. É o tipo que tenta resolver na conversa antes de sair no soco — mas se o pau quebrar, ele bota pra voar as banda.
+-  **Habilidades:**  Velocidade e reflexos sobre-humanos. Consegue aplicar uma sequência de golpes antes que o inimigo perceba o primeiro. Quando entra no ritmo, parece que o tempo desacelera ao redor dele.
 -  **Estilo de luta:** Briga de rua
+</details>
+
+<details>
+ <summary><b>Diego</b></summary>
+
+   - **Descrição:** Um verdadeiro “maluco beleza”. Diego vive no próprio ritmo, sempre com uma ideia absurda na cabeça. É impossível prever o que ele vai fazer — e é exatamente isso que o torna perigoso.
+Sua imaginação é sua arma. Literalmente. Tudo que ele imagina pode se tornar real: armas, armadilhas ou até criaturas surreais. Em meio à pancadaria, ele transforma o caos em espetáculo.
+
+
+- **Habilidades:** Toon Force — o poder de materializar qualquer coisa que imaginar.
+Diego pode criar martelos gigantes, tacos de beisebol flamejantes, molas, bigornas flutuantes, clones de desenho animado e até distorcer a física ao seu redor. Além disso, é ágil, imprevisível e praticamente impossível de acertar quando entra no “modo animação”.
+
+- **Estilo de luta:**
+Mistura comédia e criatividade. Usa o ambiente e suas criações de forma imprevisível, alternando entre ataques cômicos e devastadores. Cada luta com Diego parece um episódio de desenho animado — barulhento, caótico e hilário, mas sempre eficiente.
+</details>
+
+<details>
+<summary><b> Dr. Guswinn
+ </b></summary>
+
+   - **Descrição:**  Mantido preso em um caixa feita de um metal especial por segurança, sua brutalidade assusta a todos. Mas, dependendo de quem você seja, ele será o seu melhor aliado.
+
+   -  **Habilidades:** Super força e super resistência, estrategista, alta capacidade de dedução e rastreamento.
+
+ 
+   -  **Estilo de luta:** Vários estilos 
 </details>
 
 ## Inimigos
